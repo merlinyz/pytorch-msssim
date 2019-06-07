@@ -1,6 +1,6 @@
 # pytorch-msssim
 
-## https://mp.weixin.qq.com/s/hGum0fXrKUHCoaInVVS3rQ
+### https://mp.weixin.qq.com/s/hGum0fXrKUHCoaInVVS3rQ
 
 ### Differentiable Multi-Scale Structural Similarity (SSIM) index 
 
